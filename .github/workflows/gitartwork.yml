@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: hacknorris-aka-penguin
             # Text on contribution graph 
-            text: HACKNORRIS
+            text: hacknorris
        - uses: jasineri/simple-push-action@v1
