@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](![](./gitartwork.svg))
+![](https://github.com/hacknorris-aka-penguin/hacknorris-aka-penguin/blob/ef1cbf0a02922f9ba6d1388d1fe3c6b5eadebd3a/github-contribution-grid-snake.svg)
 
 i am a dev and :
 
