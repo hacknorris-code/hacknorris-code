@@ -12,7 +12,7 @@ i am a dev and :
 
 • knows a little about security (be aware when having war with me !!!). just that mostly focusing on privacy things... (but still testing forkbombs...)
 
-• is here a pizza ?
+• blahaj is more on the left :/
 
 list of social medias:
 
