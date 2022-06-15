@@ -6,7 +6,7 @@ i am a dev and :
 
 • i like opensource ( to prove it - [here is my codeberg account](https://codeberg.org/hacknorris) , )
 
-• recently im messing up with : mastodon , minetest , linux , kivy , websites and some more...
+• recently im messing up with : mastodon , minetest , linux , kivy , games , websites and some more...
 
 • i like searching for unusual things, eastereggs and so on
 
