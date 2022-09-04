@@ -11,6 +11,7 @@ g db "twitter", 10
 h db "gamejolt", 10
 i db "onet", 10
 j db "wp", 10
+k db "kde", 10
 
 section .text
 
@@ -58,6 +59,10 @@ call print
 
 mov rdx, 3
 mov rsi, j 
+call print 
+
+mov rdx, 4
+mov rsi, k 
 call print 
 
 mov rax, 60
