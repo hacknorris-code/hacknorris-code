@@ -26,4 +26,3 @@ list of social medias:
 | contentdb | <a rel="me" href="https://content.minetest.net/users/hacknorris/">link</a> |
 | blag | <a rel="me" href="https://hacknorris-aka-penguin.github.io/">link</a> |
 
-PS: recently switched from using MIT license to GPL ;p
