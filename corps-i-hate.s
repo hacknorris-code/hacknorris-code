@@ -12,6 +12,8 @@ h db "gamejolt", 10
 i db "onet", 10
 j db "wp", 10
 k db "kde", 10
+l db "arch linux", 10
+m db "gotosocial", 10
 
 section .text
 
@@ -63,6 +65,14 @@ call print
 
 mov rdx, 4
 mov rsi, k 
+call print 
+
+mov rdx, 4
+mov rsi, l
+call print 
+
+mov rdx, 4
+mov rsi, m 
 call print 
 
 mov rax, 60
