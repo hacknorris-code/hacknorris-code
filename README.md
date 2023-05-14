@@ -19,7 +19,6 @@ list of social medias:
 
 |social media | links |
 |--|--|
-| mastodon | <a rel="me" href="https://mastodon.social/@hacknorris">link</a> |
 | discord | hacknorris#1981 |
 | mail | <a href="mailto:hacknorris@tutanota.com"> mail me </a> |
 | replit | <a rel="me" href="https://replit.com/@hacknorris">link</a> |
