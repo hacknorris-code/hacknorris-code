@@ -21,7 +21,7 @@ list of social medias:
 |--|--|
 | discord | hacknorris#1981 |
 | mail | <a href="mailto:hacknorris@tutanota.com"> mail me </a> |
-| replit | <a rel="me" href="https://replit.com/@hacknorris">link</a> |
-| itch io | <a rel="me" href="https://content.minetest.net/users/hacknorris/">link</a> |
+| replit | <a rel="me" href="https://replit.com/@hacknorris/">link</a> |
+| itch io | <a rel="me" href="https://hacknorris.itch.io/">link</a> |
 | blag | <a rel="me" href="https://hacknorris.neocities.org/">link</a> |
 
