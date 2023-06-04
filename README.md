@@ -19,7 +19,7 @@ list of social medias:
 
 |social media | links |
 |--|--|
-| discord | hacknorris#1981 |
+| discord | hacknorris#1891 |
 | mail | <a href="mailto:hacknorris@tutanota.com"> mail me </a> |
 | replit | <a rel="me" href="https://replit.com/@hacknorris/">link</a> |
 | itch io | <a rel="me" href="https://hacknorris.itch.io/">link</a> |
