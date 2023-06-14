@@ -2,6 +2,9 @@
 
 ![](https://github.com/hacknorris-aka-penguin/hacknorris-aka-penguin/blob/output/github-contribution-grid-snake.svg)
 
+YELLOW ALERT - THIS ACCOUNT MIGHT BE IN MEDIUM-SIZED DANGER. SYSTEM DETECTED A REAL-LIFE STALKER...
+(COPY OF THIS POST WILL GO TO OTHER PROFILES AND SITES TOO)
+
 i am a dev and :
 
 • i like opensource ( to prove it - [here is my codeberg account](https://codeberg.org/hacknorris) , )
