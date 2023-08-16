@@ -26,5 +26,5 @@ list of social medias:
 | mail | <a href="mailto:hacknorris@tutanota.com"> mail me </a> |
 | replit | <a rel="me" href="https://replit.com/@hacknorris/">link</a> |
 | itch io | <a rel="me" href="https://hacknorris.itch.io/">link</a> |
-| blag | <a rel="me" href="https://hacknorris.neocities.org/">link</a> |
+| blag | <a rel="me" href="https://hacknorris-blog.blogspot.com/?utm_source=github">link</a> |
 
