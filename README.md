@@ -9,6 +9,8 @@ i am a dev and :
 
 • i like opensource ( to prove it - [here is my codeberg account](https://codeberg.org/hacknorris) , )
 
+<h2 color="red">SOONLY WILL MOVE THERE FULLY.<i><small><br>right now migrating repos. account deletion won't be that quickly tho ;) </small></i></h2>
+
 • recently im messing up with : mastodon , minetest , linux , games , websites and some more...
 
 • i like searching for unusual things, eastereggs and so on
