@@ -14,6 +14,7 @@ j db "wp", 10
 k db "kde", 10
 l db "arch linux", 10
 m db "gotosocial", 10
+n db "wooga", 10
 
 section .text
 
@@ -73,12 +74,16 @@ mov rdx, 4
 mov rsi, k 
 call print 
 
-mov rdx, 4
+mov rdx, 11
 mov rsi, l
 call print 
 
-mov rdx, 4
+mov rdx, 11
 mov rsi, m 
+call print 
+
+mov rdx, 6
+mov rsi, n
 call print 
 
 mov rax, 60
