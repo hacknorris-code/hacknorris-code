@@ -15,6 +15,7 @@ k db "kde", 10
 l db "arch linux", 10
 m db "gotosocial", 10
 n db "wooga", 10
+o db "open ai", 10
 
 section .text
 
@@ -84,6 +85,10 @@ call print
 
 mov rdx, 6
 mov rsi, n
+call print 
+
+mov rdx, 8
+mov rsi, o
 call print 
 
 mov rax, 60
