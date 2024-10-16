@@ -17,6 +17,12 @@ m db "gotosocial", 10
 
 section .text
 
+print:
+mov	rax, 1
+mov rdi, 1
+syscall
+ret
+
 _start:
 
 mov rdx, 54
@@ -79,8 +85,3 @@ mov rax, 60
 xor rdi, rdi
 syscall
 
-print:
-mov	rax, 1
-mov rdi, 1
-syscall
-ret
