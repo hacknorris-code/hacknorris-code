@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/hacknorris-aka-penguin/hacknorris-aka-penguin/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/hacknorris-code/hacknorris-code/blob/output/github-contribution-grid-snake.svg)
 
 YELLOW ALERT - THIS ACCOUNT MIGHT BE IN MEDIUM-SIZED DANGER. SYSTEM DETECTED A REAL-LIFE STALKER...
 (COPY OF THIS POST WILL GO TO OTHER PROFILES AND SITES TOO)
