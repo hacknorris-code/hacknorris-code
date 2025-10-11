@@ -26,7 +26,8 @@ list of social medias:
 |--|--|
 | discord | hacknorris#1891 |
 | mail | <a href="mailto:hacknorris@tutanota.com"> mail me </a> |
+| masto | <a rel="me" href="https://mstdn.social/@hacknorris">link</a> |
 | replit | <a rel="me" href="https://replit.com/@hacknorris/">link</a> |
 | itch io | <a rel="me" href="https://hacknorris.itch.io/">link</a> |
 | blag | <a rel="me" href="https://hacknorris-blog.blogspot.com/?utm_source=github">link</a> |
-| tumblr | <a rel="me" href="https://tumblr.com/hacknorris">link</a> |
+<!--| tumblr | <a rel="me" href="https://tumblr.com/hacknorris">link</a> |-->
