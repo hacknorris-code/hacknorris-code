@@ -7,15 +7,13 @@ YELLOW ALERT - THIS ACCOUNT MIGHT BE IN MEDIUM-SIZED DANGER. SYSTEM DETECTED A R
 
 i am a dev and :
 
-• i like opensource ( to prove it - [here is my codeberg account](https://codeberg.org/hacknorris) , )
+• i like opensource 
 
-<strike>SOONLY WILL MOVE THERE FULLY.<i><small><br>right now migrating repos. account deletion won't be that quickly tho ;) </small></i></strike> decided to keep being here anyway. just that. reemigrating
-
-• recently im messing up with : mastodon , minetest , linux , games , websites and some more...
+• recently im messing up with : mastodon , minetest , linux , games , websites, ai and some more...
 
 • i like searching for unusual things, eastereggs and so on
 
-• knows a little about security (be aware when having war with me !!!). just that mostly focusing on privacy things... (but still testing forkbombs...)
+• knows a little about security (be aware when having war with me !!!). just that mostly focusing on privacy things... (but still testing forkbombs and "unzipping" ip packets...)
 
 • blahaj is more on the left :/
 
@@ -24,10 +22,9 @@ list of social medias:
 
 |social media | links |
 |--|--|
-| discord | hacknorris#1891 |
+| discord | hacknorris#1891 / ._hacknorris |
 | mail | <a href="mailto:hacknorris@tutanota.com"> mail me </a> |
 | masto | <a rel="me" href="https://mstdn.social/@hacknorris">link</a> |
-| replit | <a rel="me" href="https://replit.com/@hacknorris/">link</a> |
 | itch io | <a rel="me" href="https://hacknorris.itch.io/">link</a> |
 | blag | <a rel="me" href="https://hacknorris-blog.blogspot.com/?utm_source=github">link</a> |
 <!--| tumblr | <a rel="me" href="https://tumblr.com/hacknorris">link</a> |-->
